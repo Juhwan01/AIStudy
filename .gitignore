@@ -1,3 +1,7 @@
 ﻿DAYCON-1/roberta_results
 ds20-23070-diabetesprediction
 *.zip
+DAYCON-1/results_bert_small
+DAYCON-1/results_electra_small
+DAYCON-1/results_roberta_small
+*.csv
