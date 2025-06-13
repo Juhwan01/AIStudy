@@ -5,3 +5,5 @@ DAYCON-1/results_bert_small
 DAYCON-1/results_electra_small
 DAYCON-1/results_roberta_small
 *.csv
+DAYCON-1/results_bert_base_listwise_listwise
+DAYCON-1/results_electra_small_listwise_listwise
